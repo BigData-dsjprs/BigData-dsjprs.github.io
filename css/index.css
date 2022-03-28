@@ -628,7 +628,7 @@ body::after {
   position: fixed;
   height: 100vh;
   z-index: -2;
-  background: url("/source/images/bg.png") no-repeat center/cover;
+  background: url("/source/images/zs.png") no-repeat center/cover;
 }
 .container {
   white-space: normal;
@@ -746,7 +746,7 @@ body::after {
   width: 100%;
   font-size: 18px;
   background-color: #2d2e30;
-  height: 60vh;
+  height: 80vh;
 }
 .header-inner--bgcolor {
   background-color: #333;
