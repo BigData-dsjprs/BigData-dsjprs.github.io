@@ -2594,12 +2594,12 @@ body::after {
   content: '|';
   margin: 0 10px;
 }
-@media (min-width: 1138px) {
+@media (min-width: 1130px) {
   .header-nav-inner {
-    width: 1138px;
+    width: 1130px;
   }
   .main-inner {
-    width: 1138px;
+    width: 1130px;
   }
 }
 @media (min-width: 991.98px) {
